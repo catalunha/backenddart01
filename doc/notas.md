@@ -3,6 +3,9 @@ https://medium.com/flutter-comunidade-br/criando-uma-aplica%C3%A7%C3%A3o-web-com
 
 https://stackoverflow.com/questions/37694987/connecting-to-postgresql-in-a-docker-container-from-outside
 
+
+https://www.youtube.com/watch?v=-OvfaZE1_5U
+
 CREATE TABLE _ToDo(
   id SERIAL PRIMARY KEY,
   name VARCHAR,
